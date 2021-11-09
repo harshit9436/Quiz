@@ -1,0 +1,2 @@
+# Quiz
+Being fascinated by quizzing app, I built a simple program which takes questionsfrom  an  API  provided  by  an  open  source.   It  present  the  question  in  a  wellformatted form and the user need to input the index of correct option to checkthe answer.If the answer is correct the score is increased,  while if the answer is wrong ittells the correct answer.  User can quit any time by typing quit
